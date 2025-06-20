@@ -1,0 +1,25 @@
+sequences:
+- rna:
+    id: A
+    sequence: GAGUCAUGGCUCAGGGCUGUUCGCAGCCGCUGCAGUCAGUCGAAAGACUGGACUCC
+- rna:
+    id: B
+    sequence: GAGUCAUGGCUCAGGGCUGUUCGCAGCCGCUGCAGUCAGUCGAAAGACUGGACUCC
+- ligand:
+    id: C
+    ccd: A1ID5
+- ligand:
+    id: D
+    ccd: A1ID5
+- ligand:
+    id: E
+    ccd: A1IY6
+- ligand:
+    id: F
+    ccd: A1IY6
+- ligand:
+    id: G
+    ccd: GDP
+- ligand:
+    id: H
+    ccd: GDP

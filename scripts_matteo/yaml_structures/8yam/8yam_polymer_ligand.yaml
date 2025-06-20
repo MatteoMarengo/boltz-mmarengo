@@ -1,0 +1,7 @@
+sequences:
+- rna:
+    id: A
+    sequence: CUGGGUCGCAGUXXXCCCAGUUAACAAAACAAG
+- ligand:
+    id: B
+    ccd: A1LYK

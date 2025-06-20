@@ -1,0 +1,7 @@
+sequences:
+- rna:
+    id: A
+    sequence: GACAGCUGCUGUC
+- rna:
+    id: B
+    sequence: GACAGCUGCUGUC

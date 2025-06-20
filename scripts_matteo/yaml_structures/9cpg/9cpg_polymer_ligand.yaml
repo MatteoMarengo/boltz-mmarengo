@@ -1,0 +1,10 @@
+sequences:
+- rna:
+    id: A
+    sequence: GACAGCUGCUGUC
+- rna:
+    id: B
+    sequence: GACAGCUGCUGUC
+- ligand:
+    id: C
+    ccd: A1AZM

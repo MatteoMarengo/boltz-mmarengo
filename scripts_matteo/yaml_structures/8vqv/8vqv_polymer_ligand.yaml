@@ -1,0 +1,7 @@
+sequences:
+- rna:
+    id: A
+    sequence: GGGUCGUGACUGGCGAACAGGUGGGAAACCACCGGGGAGCGACCCUUGCCGCCCGCCUGGGCAA
+- ligand:
+    id: B
+    ccd: UG4

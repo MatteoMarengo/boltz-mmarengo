@@ -1,0 +1,7 @@
+sequences:
+- rna:
+    id: A
+    sequence: GGAUAGUUUCGACUGAUCC
+- ligand:
+    id: B
+    ccd: 53D

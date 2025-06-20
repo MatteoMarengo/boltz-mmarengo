@@ -1,0 +1,10 @@
+sequences:
+- rna:
+    id: A
+    sequence: GGUGUGUACCGUUCAACUCGUCCCAGCUUCGACUGGGACUACGGGAGCGCCU
+- ligand:
+    id: B
+    ccd: ANG
+- ligand:
+    id: C
+    ccd: GTP

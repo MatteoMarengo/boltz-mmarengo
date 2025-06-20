@@ -1,0 +1,10 @@
+sequences:
+- rna:
+    id: A
+    sequence: AGCAACUUAGGAUUUUAGGCUCCCCGGCGUGUCUCGAACCAUGCCGGGCCAAACCCAUAGGGCUGGCGGUCCCUGUGCGGUCAAAUUCAUCCGCCGGAG
+- ligand:
+    id: B
+    ccd: GTP
+- ligand:
+    id: C
+    ccd: PRF

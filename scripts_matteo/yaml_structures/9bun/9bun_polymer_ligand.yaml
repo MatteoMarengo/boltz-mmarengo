@@ -1,0 +1,70 @@
+sequences:
+- rna:
+    id: A
+    sequence: GGACUCGGAAACGUGAAGGAGAGGCGCAAGGUUAACCGCCUCAGUCCA
+- rna:
+    id: B
+    sequence: GGACUCGGAAACGUGAAGGAGAGGCGCAAGGUUAACCGCCUCAGUCCA
+- rna:
+    id: C
+    sequence: GGACUCGGAAACGUGAAGGAGAGGCGCAAGGUUAACCGCCUCAGUCCA
+- rna:
+    id: D
+    sequence: GGACUCGGAAACGUGAAGGAGAGGCGCAAGGUUAACCGCCUCAGUCCA
+- ligand:
+    id: E
+    ccd: FH8
+- ligand:
+    id: F
+    ccd: FH8
+- ligand:
+    id: G
+    ccd: FH8
+- ligand:
+    id: H
+    ccd: FH8
+- ligand:
+    id: I
+    ccd: IRI
+- ligand:
+    id: J
+    ccd: IRI
+- ligand:
+    id: K
+    ccd: IRI
+- ligand:
+    id: L
+    ccd: IRI
+- ligand:
+    id: M
+    ccd: IRI
+- ligand:
+    id: N
+    ccd: IRI
+- ligand:
+    id: O
+    ccd: IRI
+- ligand:
+    id: P
+    ccd: IRI
+- ligand:
+    id: Q
+    ccd: IRI
+- ligand:
+    id: R
+    ccd: IRI
+- ligand:
+    id: S
+    ccd: IRI
+- ligand:
+    id: T
+    ccd: IRI
+- ligand:
+    id: U
+    ccd: IRI
+- ligand:
+    id: V
+    ccd: IRI
+- ligand:
+    id: W
+    ccd: IRI

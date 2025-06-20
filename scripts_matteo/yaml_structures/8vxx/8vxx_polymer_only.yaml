@@ -1,0 +1,10 @@
+sequences:
+- rna:
+    id: A
+    sequence: GCGUACGAAGGAGAGGAGAGGAAGAGGAGAGUACGC
+- rna:
+    id: B
+    sequence: GCGUACGAAGGAGAGGAGAGGAAGAGGAGAGUACGC
+- rna:
+    id: C
+    sequence: GCGUACGAAGGAGAGGAGAGGAAGAGGAGAGUACGC

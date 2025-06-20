@@ -1,0 +1,13 @@
+sequences:
+- rna:
+    id: A
+    sequence: UGCGGGGUCCCGGGAGGACCGC
+- rna:
+    id: B
+    sequence: GCGGGGUCCCGGGAGGACCGC
+- ligand:
+    id: C
+    ccd: A1L3Y
+- ligand:
+    id: D
+    ccd: A1L3Y

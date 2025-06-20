@@ -1,0 +1,19 @@
+sequences:
+- rna:
+    id: A
+    sequence: GGACCGAGCC
+- rna:
+    id: B
+    sequence: GGACCGAGCC
+- ligand:
+    id: C
+    ccd: 5BU
+- ligand:
+    id: D
+    ccd: 5BU
+- ligand:
+    id: E
+    ccd: HHU
+- ligand:
+    id: F
+    ccd: HHU

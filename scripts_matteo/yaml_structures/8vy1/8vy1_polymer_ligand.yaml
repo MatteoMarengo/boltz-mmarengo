@@ -1,0 +1,19 @@
+sequences:
+- rna:
+    id: A
+    sequence: GCGUACGAAGGAGAGGAGAGGAAGAGGAGAGUACGC
+- rna:
+    id: B
+    sequence: GCGUACGAAGGAGAGGAGAGGAAGAGGAGAGUACGC
+- rna:
+    id: C
+    sequence: GCGUACGAAGGAGAGGAGAGGAAGAGGAGAGUACGC
+- ligand:
+    id: D
+    ccd: A1AEF
+- ligand:
+    id: E
+    ccd: A1AEF
+- ligand:
+    id: F
+    ccd: A1AEF
